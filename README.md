@@ -1,2 +1,2 @@
-# hoangduyhieu.github.io
+# HoangDuyHieu.github.io
 Hanoi University of Science and Technology
